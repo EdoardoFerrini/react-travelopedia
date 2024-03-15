@@ -1,0 +1,22 @@
+{
+  "destination": [
+    {
+      "id": "2",
+      "city": "Chicago",
+      "country": "USA",
+      "daysNeeded": 5
+    },
+    {
+      "id": "64",
+      "city": "Bologna",
+      "country": "Italy",
+      "daysNeeded": 43
+    },
+    {
+      "id": "38",
+      "city": "Roma",
+      "country": "Italy",
+      "daysNeeded": 34
+    }
+  ]
+}
